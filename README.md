@@ -1,4 +1,5 @@
 Developer: ForgeNKing • Language: Python 3 • License: MIT
+
 github-subfinder is a lightweight, token-aware reconnaissance tool that mines GitHub Code Search and raw file contents to uncover subdomains relevant to your target. It favors speed, signal, and portability, using only the Python standard library while handling pagination, concurrency, deduplication, and rate-limit rotation automatically.
 ✨ Features
 ⚡ Fast parallel fetching — pulls raw files concurrently and extracts hostnames with resilient regex.
